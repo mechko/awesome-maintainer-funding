@@ -63,3 +63,6 @@ These platforms enable individuals and organizations to financially support open
 Brokerage of support and service contracts for FOSS maintainers. 
 
 - [Open Source Economy](https://www.open-source-economy.com/) - Non-profit platform that connects enterprises with maintainers
+
+***
+Something's missing or wrong? Don't hesitate to [contribute](./CONTRIBUTING.md), thanks! ❤️
