@@ -47,6 +47,7 @@ These programs target maintainers and FOSS software developers, but are not fina
 - [Prototype Fund](https://www.prototypefund.de/) - Development of prototypes only, run by the Open Knowledge Foundation (Germany)
 - [rdcl::tools](https://rdcl.tools/) - Politcal tools development, Wau Holland Stiftiung (Germany)
 - [GitHub Secure Open Source Fund](https://github.com/open-source/github-secure-open-source-fund) - Focused on security improvements and vulnerability remediation, run by GitHub (USA)
+- [Alpha-Omega](https://alpha-omega.dev/) - Focused on security, run by OpenSSF (USA) and funded by Microsoft, Amazon & Google
 
 # Donation Platforms
 These platforms enable individuals and organizations to financially support open source maintainers through recurring or one-time contributions.
