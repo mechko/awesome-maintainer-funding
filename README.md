@@ -24,7 +24,6 @@ For currently closed programs, or those not funding maintenance work, or which a
 | [FLOSS/fund](https://floss.fund/) | _agnostic_, global | active | [Zerodha (India)](https://zerodha.com/) | [via funding.json](https://dir.floss.fund/submit) | [CTO Blog Post](https://floss.fund/blog/second-tranche-2025-anniversary/) |
 | [FOSS United Fellowships](https://fossunited.org/grants/fellowships) | _agnostic_, India | active | [FOSS United Foundation, India](https://fossunited.org/) | [via funding.json](https://fossunited.org/grants/apply/new) | |
 | [FUTO Grants](https://futo.org/grants/) | _agnostic_, global | active | [FUTO (USA)](https://futo.org/) | (email) |
-| [NGI Zero Commons Fund](https://nlnet.nl/commonsfund/) | _agnostic_, global | active | [NLNet Foundation (Netherlands)](https://nlnet.nl/) | [URL](https://nlnet.nl/propose/) | |
 | [Research Software Maintenance Fund](https://www.software.ac.uk/programmes/research-software-maintenance-fund) | Research, global | active | [Software Sustainability Institute (UK)](https://www.software.ac.uk/) | [URL](https://digitalresearchinfrastructure.grantplatform.com/) | |
 | [Sequoia Open Source Fellowship](https://www.sequoiacap.com/oss/)| _agnostic_, global | active | [Sequoia Capital (USA)](https://sequoiacap.com/)| [URL](https://www.sequoiacap.com/oss/)| |
 | [Sovereign Tech Fellowship](https://www.sovereign.tech/programs/fellowship) | _agnostic_, global | re-opening soon | [Sovereign Tech Agency (Germany)](https://sovereign.tech) | [URL](https://apply.sovereigntechfund.de/) | [2025 Evaluation Report](https://www.sovereign.tech/public/SovereignTechFellowship-2025-Evaluation-Report-EN.pdf) |
@@ -48,6 +47,7 @@ These programs target maintainers and FOSS software developers, but are not fina
 - [rdcl::tools](https://rdcl.tools/) - Politcal tools development, Wau Holland Stiftiung (Germany)
 - [GitHub Secure Open Source Fund](https://github.com/open-source/github-secure-open-source-fund) - Focused on security improvements and vulnerability remediation, run by GitHub (USA)
 - [Alpha-Omega](https://alpha-omega.dev/) - Focused on security, run by OpenSSF (USA) and funded by Microsoft, Amazon & Google
+- [NLnet - NGI Zero Commons Fund](https://nlnet.nl/commonsfund/) - Focused on research & development, operated by the NLNet Foundation (Netherlands)
 
 # Donation Platforms
 These platforms enable individuals and organizations to financially support open source maintainers through recurring or one-time contributions.
