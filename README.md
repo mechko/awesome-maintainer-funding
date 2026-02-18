@@ -68,7 +68,7 @@ Brokerage of support and service contracts for FOSS maintainers.
 
 # Related Lists
 - [Open Funding](https://github.com/ralphtheninja/open-funding) - Open guide to funding of open source projects
-- [NLnet's Alternativ Funding Sources](https://nlnet.nl/foundation/network.html) - List of organisations and programmes that have been known to fund work similar to NLnet
+- [NLnet's Alternative Funding Sources](https://nlnet.nl/foundation/network.html) - List of organisations and programmes that have been known to fund work similar to NLnet
 
 ***
 Something's missing or wrong? Don't hesitate to [contribute](./CONTRIBUTING.md), thanks! ❤️
