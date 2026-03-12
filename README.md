@@ -25,6 +25,7 @@ For currently closed programs, or those not funding maintenance work, or which a
 | [FOSS United Fellowships](https://fossunited.org/grants/fellowships) | _agnostic_, India | active | [FOSS United Foundation, India](https://fossunited.org/) | [via funding.json](https://fossunited.org/grants/apply/new) | |
 | [FUTO Grants](https://futo.org/grants/) | _agnostic_, global | active | [FUTO (USA)](https://futo.org/) | (email) |
 | [Gem Fellowship](https://gem.coop/fellowship/) | Ruby, global | active (yearly cadence) | [Gem COOP](https://gem.coop) | [URL](https://gem.coop/fellowship/) | [2026 Blog Post](https://gem.coop/updates/2026-fellowship/) | 
+| [Open Source Sustainability Fund](https://www.herodevs.com/sustainability-fund) | _agnostic_, global | active | [HeroDevs, Inc. (USA)](https://www.herodevs.com/) | [URL](https://www.herodevs.com/sustainability-fund) | |
 | [Research Software Maintenance Fund](https://www.software.ac.uk/programmes/research-software-maintenance-fund) | Research, global | active | [Software Sustainability Institute (UK)](https://www.software.ac.uk/) | [URL](https://digitalresearchinfrastructure.grantplatform.com/) | |
 | [Sequoia Open Source Fellowship](https://www.sequoiacap.com/oss/)| _agnostic_, global | active | [Sequoia Capital (USA)](https://sequoiacap.com/)| [URL](https://www.sequoiacap.com/oss/)| |
 | [Sovereign Tech Fellowship](https://www.sovereign.tech/programs/fellowship) | _agnostic_, global | re-opening soon | [Sovereign Tech Agency (Germany)](https://sovereign.tech) | [URL](https://apply.sovereigntechfund.de/) | [2025 Evaluation Report](https://www.sovereign.tech/public/SovereignTechFellowship-2025-Evaluation-Report-EN.pdf) |
@@ -43,7 +44,6 @@ These programs are currently not accepting applications. Please open an issue or
 # Not Funding Maintenance Work
 These programs target maintainers and FOSS software developers, but are not financing generic maintenance work.
 
-- [Open Source Sustainability Fund](https://www.herodevs.com/sustainability-fund) - Only for end-of-life support, run by HeroDevs, Inc. (USA) 
 - [Prototype Fund](https://www.prototypefund.de/) - Development of prototypes only, run by the Open Knowledge Foundation (Germany)
 - [rdcl::tools](https://rdcl.tools/) - Politcal tools development, Wau Holland Stiftiung (Germany)
 - [GitHub Secure Open Source Fund](https://github.com/open-source/github-secure-open-source-fund) - Focused on security improvements and vulnerability remediation, run by GitHub (USA)
