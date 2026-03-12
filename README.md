@@ -28,7 +28,7 @@ For currently closed programs, or those not funding maintenance work, or which a
 | [Open Source Sustainability Fund](https://www.herodevs.com/sustainability-fund) | _agnostic_, global | active | [HeroDevs, Inc. (USA)](https://www.herodevs.com/) | [URL](https://www.herodevs.com/sustainability-fund) | |
 | [Research Software Maintenance Fund](https://www.software.ac.uk/programmes/research-software-maintenance-fund) | Research, global | active | [Software Sustainability Institute (UK)](https://www.software.ac.uk/) | [URL](https://digitalresearchinfrastructure.grantplatform.com/) | |
 | [Sequoia Open Source Fellowship](https://www.sequoiacap.com/oss/)| _agnostic_, global | active | [Sequoia Capital (USA)](https://sequoiacap.com/)| [URL](https://www.sequoiacap.com/oss/)| |
-| [Sovereign Tech Fellowship](https://www.sovereign.tech/programs/fellowship) | _agnostic_, global | re-opening soon | [Sovereign Tech Agency (Germany)](https://sovereign.tech) | [URL](https://apply.sovereigntechfund.de/) | [2025 Evaluation Report](https://www.sovereign.tech/public/SovereignTechFellowship-2025-Evaluation-Report-EN.pdf) |
+| [Sovereign Tech Fellowship](https://www.sovereign.tech/programs/fellowship) | _agnostic_, global | active | [Sovereign Tech Agency (Germany)](https://sovereign.tech) | [freelance](https://ats.talentadore.com/apply/sovereign-tech-fellowship-freelance/mMNByA), [internal](https://ats.talentadore.com/apply/sovereign-tech-fellowship-employment/ZY5J39)  | [2025 Evaluation Report](https://www.sovereign.tech/public/SovereignTechFellowship-2025-Evaluation-Report-EN.pdf) |
 
 
 # Currently Closed
